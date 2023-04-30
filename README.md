@@ -61,6 +61,3 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
 12. Callable Classes 
 13. Conclusion 
 
-## Authors
-
-* **Sriyank Siddhartha** 
